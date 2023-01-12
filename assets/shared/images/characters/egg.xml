@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="egg.png">
+<SubTexture name="idle0000" x="195" y="0" width="64" height="62" frameX="-39" frameY="-26" frameWidth="128" frameHeight="112" />
+<SubTexture name="idle0001" x="195" y="135" width="64" height="60" frameX="-39" frameY="-26" frameWidth="128" frameHeight="112" />
+<SubTexture name="idle0002" x="195" y="62" width="64" height="62" frameX="-39" frameY="-24" frameWidth="128" frameHeight="112" />
+<SubTexture name="idle0003" x="0" y="135" width="64" height="62" frameX="-40" frameY="-23" frameWidth="128" frameHeight="112" />
+<SubTexture name="idle0004" x="63" y="69" width="64" height="63" frameX="-40" frameY="-23" frameWidth="128" frameHeight="112" />
+<SubTexture name="up0000" x="130" y="0" width="65" height="67" frameX="-39" frameY="-11" frameWidth="128" frameHeight="112" />
+<SubTexture name="up0001" x="65" y="0" width="65" height="68" frameX="-39" frameY="-11" frameWidth="128" frameHeight="112" />
+<SubTexture name="up0002" x="0" y="0" width="65" height="69" frameX="-39" frameY="-12" frameWidth="128" frameHeight="112" />
+<SubTexture name="down0000" x="0" y="69" width="63" height="66" frameX="-38" frameY="-30" frameWidth="128" frameHeight="112" />
+<SubTexture name="down0001" x="0" y="197" width="63" height="60" frameX="-38" frameY="-35" frameWidth="128" frameHeight="112" />
+<SubTexture name="down0002" x="63" y="197" width="64" height="60" frameX="-39" frameY="-35" frameWidth="128" frameHeight="112" />
+<SubTexture name="left0000" x="127" y="197" width="74" height="59" frameX="-17" frameY="-33" frameWidth="128" frameHeight="112" />
+<SubTexture name="left0001" x="259" y="0" width="82" height="56" frameX="-9" frameY="-33" frameWidth="128" frameHeight="112" />
+<SubTexture name="left0002" x="0" y="257" width="83" height="54" frameX="-11" frameY="-33" frameWidth="128" frameHeight="112" />
+<SubTexture name="right0000" x="127" y="69" width="65" height="63" frameX="-47" frameY="-24" frameWidth="128" frameHeight="112" />
+<SubTexture name="right0001" x="64" y="135" width="66" height="62" frameX="-45" frameY="-24" frameWidth="128" frameHeight="112" />
+<SubTexture name="right0002" x="130" y="135" width="65" height="62" frameX="-45" frameY="-24" frameWidth="128" frameHeight="112" />
+</TextureAtlas>
