@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"burning",
+			"burnfreeplay",
+			[
+				75,
+				61,
+				84
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "burn",
+	"weekName": "iloveburning",
+	"freeplayColor": [
+		278,
+		27,
+		33
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
